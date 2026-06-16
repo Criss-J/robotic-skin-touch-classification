@@ -1,7 +1,7 @@
 """
 Robotic Skin - Capsule Effect Test (Single MIC)
 ================================================
-MIC1 하나만 사용!
+MIC1 하나만 사용
   PHASE A: No Cap (뚜껑 없이)
   PHASE B: With Cap (뚜껑 씌우고)
   → 완전히 동일한 마이크로 비교!
